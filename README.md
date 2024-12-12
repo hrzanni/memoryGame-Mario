@@ -2,12 +2,12 @@
 
 Esse projeto foi desenvolvido para ser apresentado na Disciplina SSCSSC0513 - Organização e Arquitetura de Computadores - para a Universidade de São Paulo (USP), especificamente para o ICMC (Instituto de Ciências Matemáticas e de Computação).Tal disciplina é ministrada pelo professor Eduardo do Valle Simões, a qual possui o intuito de despertar o interesse aos alunos sobre temáticas relacionadas à arquitetura de um computador e a linguagem de programação de Assembly através de uma forma interativa e cativante, a construção de um jogo apresentado ao fim da disciplina que, no caso desse grupo, foi o Mario's Memory.
 
-Funcionamento do Jogo ->
+# Funcionamento do Jogo -> #
 
 O Mario's Memory é um jogo da memória que tem como objetivo desafiar o player a encontrar os pares de imagens que estão escondidos atrás das cartas no mapa, porém, nesse decorrer o jogador terá que tomar cuidado para não esgotar suas três vidas (chances) para concluir o jogo, sendo cada vida equivalente a um erro do player, ou seja, três erros e o jogador perde! E tudo isso está imerso em um cenário baseado no ambiente contido no jogo Mario, contendo personagens que estarão presentes nas etapas do desafio. 
 Será que você consegue vencer o desafio do Mario? Jogue e descubra!
 
-Como Jogar? -> 
+# Como Jogar? -> #
 
 - Nossa disciplina usa um simulador para desenvolver programas em linguagem Assembly que pode ser encontrado para Windows, Linux e MacOS em: https://github.com/simoesusp/Processador-ICMC/blob/master/Install_Packages/
 
@@ -27,12 +27,12 @@ Se der o erro: [Decode error - output not utf-8] é porque você não está na p
 ... Ou basta mudar o formato para utf-8 e salvar...
 
 
-Link para apresentação do jogo -> 
+# Link para apresentação do jogo -> #
 
 
 
 
-Grupo de desenvolvedores do Mario's Memory ->
+# Grupo de desenvolvedores do Mario's Memory -> #
 
 João Pedro Baratella Mattos - nUSP: 15463252
 Santiago Vera Martins - nUSP: 15487982
