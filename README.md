@@ -5,6 +5,7 @@ Esse projeto foi desenvolvido para ser apresentado na Disciplina SSCSSC0513 - Or
 # Funcionamento do Jogo -> #
 
 O Mario's Memory é um jogo da memória que tem como objetivo desafiar o player a encontrar os pares de imagens que estão escondidos atrás das cartas no mapa, porém, nesse decorrer o jogador terá que tomar cuidado para não esgotar suas três vidas (chances) para concluir o jogo, sendo cada vida equivalente a um erro do player, ou seja, três erros e o jogador perde! E tudo isso está imerso em um cenário baseado no ambiente contido no jogo Mario, contendo personagens que estarão presentes nas etapas do desafio. 
+
 Será que você consegue vencer o desafio do Mario? Jogue e descubra!
 
 # Como Jogar? -> #
@@ -34,8 +35,11 @@ Se der o erro: [Decode error - output not utf-8] é porque você não está na p
 
 # Grupo de desenvolvedores do Mario's Memory -> #
 
-João Pedro Baratella Mattos - nUSP: 15463252
+João Pedro Baratella Mattos - nUSP: 15463252  
+
 Santiago Vera Martins - nUSP: 15487982
+
 Hugo Rubira Zanni - nUSP: 15575890
+
 Caique Martins Costa Xavier - nUSP: 15573769
 
