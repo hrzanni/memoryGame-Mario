@@ -1,4 +1,5 @@
-# Disciplina e Objetivos -> #
+# Disciplina e Objetivos ->  ![image](https://github.com/user-attachments/assets/7478cc95-50db-4770-9148-faa0f90f9f08)
+
 
 Esse projeto foi desenvolvido para ser apresentado na Disciplina SSCSSC0513 - Organização e Arquitetura de Computadores - para a Universidade de São Paulo (USP), especificamente para o ICMC (Instituto de Ciências Matemáticas e de Computação). Tal disciplina é ministrada pelo professor Eduardo do Valle Simões, a qual possui o intuito de despertar o interesse aos alunos sobre temáticas relacionadas à arquitetura de um computador e a linguagem de programação de Assembly através de uma forma interativa e cativante, a construção de um jogo apresentado ao fim da disciplina que, no caso desse grupo, foi o Mario's Memory.
 
