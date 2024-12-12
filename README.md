@@ -30,8 +30,8 @@ Se der o erro: [Decode error - output not utf-8] é porque você não está na p
 
 
 # Link para apresentação do jogo -> #
-
-https://youtu.be/kpzlu8C3vVs
+[![IMAGE ALT TEXT HERE](![Captura de tela 2024-12-12 141435](https://github.com/user-attachments/assets/ff614815-b52d-406d-be30-e8941142b59b)
+)](https://youtu.be/kpzlu8C3vVs?si=n28wDfbS_KK_YmS9)
 
 
 # Grupo de desenvolvedores do Mario's Memory -> #
